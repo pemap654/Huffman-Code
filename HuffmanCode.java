@@ -1,8 +1,3 @@
-// Thong Nguyen
-// 05/31/2024
-// Program project 3: Huffman
-// TA: Shreya Nambi
-// Class comments: this class storing the character of the the file in to the tree
 import java.util.*;
 import java.io.*;
 
